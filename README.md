@@ -45,11 +45,11 @@ Attention Mechanism: Implements multi-head attention with scaling and masking.
 Feed-Forward Network (FFN): A two-layer feed-forward network with GELU activation.
 Layer Normalization: Applied before each sub-layer to stabilize training.
 
-Contributing
+Contributing:
 Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
 
-License
+License:
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Acknowledgments
+Acknowledgments:
 This implementation is inspired by the original GPT-2 paper and utilizes code from Hugging Face's Transformers library for loading pretrained models.
